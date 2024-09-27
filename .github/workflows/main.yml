@@ -1,7 +1,10 @@
 name: Generate Datas
 
+permissions:
+  contents: write
+
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
@@ -10,7 +13,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -21,5 +23,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
