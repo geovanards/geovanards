@@ -6,5 +6,3 @@
 
 
 
-![Snake animation](https://github.com/geovanards/geovanards/blob/output/github-contribution-grid-snake.svg)
-
