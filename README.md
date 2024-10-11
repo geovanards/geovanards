@@ -1,10 +1,8 @@
-## Hello World👋
-
-- 📌 I am a computer science student and full stack developer in development
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=960996&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!;Estudante+de+Ciências+da+Computação)](https://git.io/typing-svg)
-
+## Hello World, Geovana  here!🌹
+- 🎓 **computer science** student
+- 🌱 learning java, php and c
+<br></br>
+## 📊 GitHub status
 <div>
   <a href="https://github.com/geovanards">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanards&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -12,7 +10,8 @@
 
 </div>
 
-## Skills
+## 🧩 Skills and frameworks
+
  <div style="display:inlice_block"><br>
   <img align="center" alt="Geovana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Geovana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,7 +19,9 @@
   <img align="center" alt="Geovana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Geovana-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-
-
+<br></br>
+## 📱 Social media, connect with me!
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
