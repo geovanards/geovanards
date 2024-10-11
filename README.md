@@ -2,7 +2,7 @@
 - 🎓 **Computer science** student
 - 🌱 Learning java, php and c
 <br></br>
-## 📊 GitHub status
+## 📊 GitHub stats
 <div>
   <a href="https://github.com/geovanards">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanards&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
