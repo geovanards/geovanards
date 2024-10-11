@@ -1,7 +1,6 @@
 ## Hello World👋
 
 - 📌 I am a computer science student and full stack developer in development
-- Aqui está a versão atualizada:
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=960996&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!;Estudante+de+Ciências+da+Computação)](https://git.io/typing-svg)
