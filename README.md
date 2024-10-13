@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/40bd20d2-5862-4b09-88f4-d3844589cff7)## Hello! Geovana here🌹
-- 🎓 **Computer science** student
-- 🌱 Learning java, php and c
+## Hello World, Geovana  here!🌹
+- 🎓 **computer science** student
+- 🌱 learning java, php and c
 <br></br>
-## 📊 GitHub stats
+## 📊 GitHub status
 <div>
   <a href="https://github.com/geovanards">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanards&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
