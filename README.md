@@ -1,4 +1,4 @@
-## Hello! Geovana here🌹
+![image](https://github.com/user-attachments/assets/40bd20d2-5862-4b09-88f4-d3844589cff7)## Hello! Geovana here🌹
 - 🎓 **Computer science** student
 - 🌱 Learning java, php and c
 <br></br>
@@ -21,7 +21,6 @@
 
 <br></br>
 ## 📱 Social media, connect with me!
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-rodrigues-a878ab250)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geovanawrod?igsh=MXdzMmN1YzEzNjdrMg==)
 
