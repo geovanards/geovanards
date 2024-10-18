@@ -10,7 +10,7 @@
 
 </div>
 
-## 🧩 Skills and frameworks
+## 🧩 Skills
 
  <div style="display:inlice_block"><br>
   <img align="center" alt="Geovana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
