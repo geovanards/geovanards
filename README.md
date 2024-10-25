@@ -1,4 +1,4 @@
-## Hello World, Geovana  here!🌹
+## Hello, Geovana here!🌹
 - 🎓 **computer science** student
 - 🌱 learning java, php and c
 <br></br>
