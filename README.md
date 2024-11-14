@@ -1,6 +1,7 @@
 ## Hello, Geovana here!🌹
-- 🎓 **computer science** student
+- 📖 Student of **Computer Science**.
 - 🌱 learning java, php and c
+  
 <br></br>
 ## 📊 GitHub status
 <div>
