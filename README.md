@@ -1,9 +1,10 @@
 ## Hello, Geovana here!🌹
 - 📖 Student of **Computer Science**.
 - 🌱 learning java, php and c
-  
+
+  ![Profile visits](https://komarev.com/ghpvc/?username=geovanards)
 <br></br>
-## 📊 GitHub status
+### 📊 GitHub status
 <div>
   <a href="https://github.com/geovanards">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanards&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
