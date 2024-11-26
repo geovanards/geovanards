@@ -2,7 +2,8 @@
 - 📖 Student of **Computer Science**.
 - 🌱 learning java, php and c
 
-  ![Profile visits](https://komarev.com/ghpvc/?username=geovanards)
+  ![Profile visits](https://komarev.com/ghpvc/?username=geovanards&color=purple)
+
 <br></br>
 ### 📊 GitHub status ###
 <div>
