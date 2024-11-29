@@ -1,4 +1,4 @@
-## Hello, Geovana here! 🌹
+# Hello, Geovana here! 🌹
 - 📖 I'm a **Computer Science** student.
 - 🌱 Currently learning **Java**, **PHP**, and **C**.
 
@@ -6,7 +6,7 @@
 
 <br>
 
-### 📊 GitHub Status
+# 📊 GitHub Status
 <div>
   <a href="https://github.com/geovanards">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanards&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,7 @@
 
 <br>
 
-### 🧩 Skills
+# 🧩 Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Geovana-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Geovana-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
