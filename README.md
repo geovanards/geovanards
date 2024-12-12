@@ -2,7 +2,7 @@
 - 📖 **Computer Science** Student.
 - 🌱 Currently learning **Java**, **PHP**, and **C**.
 
-I have a great passion for learning and creating innovative solutions through code! I am constantly looking for new challenges and different ways to apply and enhance my skills. Feel free to explore my projects and connect with me!
+I've a great passion for learning and creating innovative solutions through code! I'm constantly looking for new challenges and different ways to apply and enhance my skills. Feel free to explore my projects and connect with me!
 
 ![Profile visits](https://komarev.com/ghpvc/?username=geovanards)
 
