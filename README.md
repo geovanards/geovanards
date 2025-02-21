@@ -1,7 +1,7 @@
 # Hello, Geovana here 👋
 
-❥ 📖 **Computer Science** Student.  
-❥ 🌱 Currently learning **Java**, **PHP**, and **C**.
+ 📖 **Computer Science** Student.  
+ 🌱 Currently learning **Java**, **PHP**, and **C**.
 
 
 
