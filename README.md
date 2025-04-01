@@ -8,18 +8,6 @@ Let's code! 🚀
 
 ![Profile visits](https://komarev.com/ghpvc/?username=geovanards)
 
-
-<br>
-
- ## 📈Git Stats
- <a href="https://github.com/geovanards">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanards&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanards&layout=compact&langs_count=7&theme=nightowl"/>
-
-
-<br>
-
-
 ## 🛠️ My skills - Languages and Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=java&logoColor=white)
@@ -30,6 +18,18 @@ Let's code! 🚀
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
+
+<br>
+
+
+
+ ## 📈Git Stats
+ <a href="https://github.com/geovanards">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanards&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanards&layout=compact&langs_count=7&theme=nightowl"/>
+
+
+<br>
 
 
 
