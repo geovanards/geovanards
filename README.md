@@ -1,23 +1,20 @@
-# Hi, I'm Geovana Rodrigues 👋
+# Hello! I'm Geovana Computer Science student 😊
 
-I’m Geovana Rodrigues, a Computer Science student with a deep passion for technology and programming. I enjoy tackling challenges and creating innovative solutions through code. I’m always eager to learn and improve my skills by exploring new tools, languages, and methodologies.
-
-Currently, I am focused on expanding my knowledge in areas like, Web Development, Data Science. Always learning and improving my skills✨
-
-Let's code! 🚀
-
-              
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-rodrigues-a878ab250)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geovanawrod)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+👩‍🎓 I am a Computer Science student at CEUB University in Brasília<br>
+📊 Currently learning programming and project management with knowledge in the Administrative area<br>
+✨ Always learning and improving my skills
 
 
+## 💬 About me
+- Name: Geovana Rodrigues Paz
+- LinkedIn: [Geovana Rodrigues](https://www.linkedin.com/in/geovana-rodrigues-a878ab250/)
+- Email: geovana202110rod@gmail.com
 
-![Profile visits](https://komarev.com/ghpvc/?username=geovanards)
 
-
-<br>
-
+## 📚🤝 Academic projects & Contributions
+- Jacaré do Lago: [Gastronomia e Tradição](https://github.com/Mayrton777/Projeto_jacare)
+- EVENT LY: [DATE KEEPER](https://github.com/geovanards/EventLy)
+- Bootcamp: [Eclipse Events](https://github.com/geovanards/bootcamp)
 
  ## 📈Git Stats
  <a href="https://github.com/geovanards">
@@ -28,12 +25,8 @@ Let's code! 🚀
 <br>
 
 
----
+## 🛠️ Languages and Tools
 
-
-
-
-## 🛠️ My skills - Languages and Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
