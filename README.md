@@ -6,7 +6,7 @@
 
 
 ## 💬 About me
-- Name: Geovana Rodrigues Paz
+- Name: Geovana Rodrigues
 - LinkedIn: [Geovana Rodrigues](https://www.linkedin.com/in/geovana-rodrigues-a878ab250/)
 - Email: geovana202110rod@gmail.com
 
