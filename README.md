@@ -2,7 +2,7 @@
 
 👩‍🎓 I am a Computer Science student at CEUB University in Brasília<br>
 📊 Currently learning programming and project management with knowledge in the Administrative area<br>
-✨ Always learning and improving my skills
+✨ Always learning and improving my skills<br>
 ! Currently improving my database knowledge at Oracle Apex
 
 
