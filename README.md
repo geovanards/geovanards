@@ -1,4 +1,4 @@
-# Hello! I'm Geovana Computer Science student 😊
+# Hello! I'm Geovana Computer Science student
 
 👩‍🎓 I am a Computer Science student at CEUB University in Brasília<br>
 📊 Currently learning programming and project management with knowledge in the Administrative area<br>
